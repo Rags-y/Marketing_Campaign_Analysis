@@ -1,0 +1,5 @@
+issue,action,reason,rows_affected,customer_ids
+Missing Income,Retained as NaN; no imputation,Avoid inventing customer income; exclude only from income-dependent analyses,24,"1994, 5255, 7281, 7244, 8557, 10629, 8996, 9235, 5798, 8268, 1295, 2437, 2863, 10475, 2902, 4345, 3769, 7187, 1612, 5079, 10339, 3117, 5250, 8720"
+Extreme Income,Set analytical Income to NaN; original value preserved,Income of 666666 is an extreme anomaly and could distort quartiles and averages,1,9432
+Implausible Birth Year,Preserved original year; excluded from age-band calculations,Avoid assigning implausible ages while retaining the original customer record,3,"7829, 11004, 1150"
+Rare Marital Status,"Grouped Alone, Absurd and YOLO as Other/Unusual in analytical column",Avoid unsupported recoding; preserve original labels in source column,7,"433, 7660, 92, 7734, 4369, 492, 11133"
