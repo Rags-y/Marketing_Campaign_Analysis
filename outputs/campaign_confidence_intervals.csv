@@ -1,0 +1,7 @@
+campaign,conversions,customers,conversion_rate_pct,ci_lower_pct,ci_upper_pct
+Campaign 1,144,2240,6.43,5.49,7.52
+Campaign 2,30,2240,1.34,0.94,1.91
+Campaign 3,163,2240,7.28,6.27,8.43
+Campaign 4,167,2240,7.46,6.44,8.62
+Campaign 5,163,2240,7.28,6.27,8.43
+Campaign 6,334,2240,14.91,13.5,16.45
