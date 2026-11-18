@@ -1,0 +1,17 @@
+segment_type,segment,customers,conversions,conversion_rate_pct,mean_total_spend,overall_rate_pct,p_value,high_performing
+Age Band,18-29,221,36,16.29,609.15,14.91,0.550448,False
+Age Band,30-39,557,84,15.08,519.6,14.91,0.908696,False
+Age Band,40-49,676,101,14.94,554.38,14.91,0.99295,False
+Age Band,50-59,467,63,13.49,684.08,14.91,0.326174,False
+Age Band,60+,316,50,15.82,749.33,14.91,0.631113,False
+Education,2n Cycle,203,22,10.84,496.53,14.91,0.08753,False
+Education,Basic,54,2,3.7,81.8,14.91,0.019261,False
+Education,Graduation,1127,152,13.49,619.9,14.91,0.056986,False
+Education,Master,370,57,15.41,611.78,14.91,0.769994,False
+Education,PhD,486,101,20.78,672.41,14.91,4e-05,True
+Marital Status,Divorced,232,48,20.69,610.63,14.91,0.009053,True
+Marital Status,Married,864,98,11.34,590.8,14.91,0.000172,False
+Marital Status,Other/Unusual,7,3,42.86,571.86,14.91,0.037611,False
+Marital Status,Single,480,106,22.08,606.48,14.91,1e-06,True
+Marital Status,Together,580,60,10.34,608.39,14.91,0.000336,False
+Marital Status,Widow,77,19,24.68,738.82,14.91,0.014366,True
