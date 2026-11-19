@@ -1,0 +1,11 @@
+segment_type,segment,customers,conversions,conversion_rate_pct,mean_total_spend,overall_rate_pct,p_value,high_performing
+Income Quartile,Q1 (Lowest),554,58,10.47,81.59,14.91,0.000518,False
+Income Quartile,Q2,554,69,12.45,231.32,14.91,0.049842,False
+Income Quartile,Q3,553,57,10.31,756.64,14.91,0.000331,False
+Income Quartile,Q4 (Highest),554,149,26.9,1360.01,14.91,0.0,True
+Children at Home,0 children,638,169,26.49,1106.03,14.91,0.0,True
+Children at Home,1+ children,1602,165,10.3,406.58,14.91,0.0,False
+Customer Tenure,0-6 months,568,49,8.63,496.17,14.91,1e-06,False
+Customer Tenure,7-12 months,591,56,9.48,547.62,14.91,1.5e-05,False
+Customer Tenure,13-18 months,595,99,16.64,648.79,14.91,0.16733,False
+Customer Tenure,19-24 months,486,130,26.75,752.03,14.91,0.0,True
