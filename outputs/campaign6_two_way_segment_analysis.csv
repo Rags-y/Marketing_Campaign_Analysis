@@ -1,0 +1,9 @@
+segment_type,segment,customers,conversions,conversion_rate_pct,mean_total_spend,overall_rate_pct,p_value,high_performing
+Income Quartile x Children,Q1 (Lowest) | 0 children,101,8,7.92,126.03,14.91,0.040623,False
+Income Quartile x Children,Q1 (Lowest) | 1+ children,453,50,11.04,71.68,14.91,0.007623,False
+Income Quartile x Children,Q2 | 0 children,51,13,25.49,444.18,14.91,0.034532,True
+Income Quartile x Children,Q2 | 1+ children,503,56,11.13,209.73,14.91,0.005366,False
+Income Quartile x Children,Q3 | 0 children,95,17,17.89,1086.57,14.91,0.42517,False
+Income Quartile x Children,Q3 | 1+ children,458,40,8.73,688.21,14.91,2.3e-05,False
+Income Quartile x Children,Q4 (Highest) | 0 children,386,130,33.68,1453.41,14.91,0.0,True
+Income Quartile x Children,Q4 (Highest) | 1+ children,168,19,11.31,1145.4,14.91,0.160024,False
