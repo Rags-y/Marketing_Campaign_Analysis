@@ -1,0 +1,3 @@
+scenario,customers_contacted,expected_conversions,conversion_rate_pct,contact_cost,conversion_revenue,profit
+Contact Everyone,2240,334,14.91,6720,3674,-3046
+Targeted Segments Only,437,143,32.72,1311,1573,262
